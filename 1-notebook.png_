@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "# Data Science Final Project\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Introduction\nThis notebook contains a series of exercises to demonstrate basic\ndata science concepts and tools. Each exercise will focus on different\naspects of data science such as programming languages, libraries, tools, and basic arithmetic operations.\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Languages\nSome of the popular programming languages used in Data Science include:\n- Python\n- R\n- SQL\n- Julia\n- Scala\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Libraries\nThe following are some commonly used libraries in Data Science:\n- Pandas\n- NumPy\n- Matplotlib\n- Scikit-learn\n- TensorFlow\n- PyTorch\n- Seaborn\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Data Science Tools\n\nHere is a table of common tools used in Data Science:\n\n| Tool          | Purpose                               |\n|---------------|---------------------------------------|\n| Jupyter       | Interactive coding environment       |\n| GitHub        | Version control and sharing code     |\n| Excel         | Data manipulation and analysis       |\n| Tableau       | Data visualization                   |\n| Power BI      | Business Intelligence and Analytics |\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Arithmetic Expressions\nIn this section, we will demonstrate some examples of basic arithmetic expressions in Python.\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "# Multiplying and adding numbers\na = 5\nb = 10\nc = a * b\nd = a + b\nc, d\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "# Convert minutes to hours\nminutes = 150\nhours = minutes / 60\nhours\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "## Objectives\n- Learn how to work with basic arithmetic expressions in Python.\n- Explore popular programming languages and libraries for Data Science.\n- Understand how to use various tools in Data Science.\n- Gain hands-on experience with Jupyter Notebook.\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "ename": "<class 'SyntaxError'>",
+          "evalue": "invalid syntax (<ipython-input-1-4367dbaf41f5>, line 2)",
+          "traceback": [
+            "\u001b[0;36m  Cell \u001b[0;32mIn[1], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    - Learn how to work with basic arithmetic expressions in Python.\u001b[0m\n\u001b[0m            ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ],
+          "output_type": "error"
+        }
+      ],
+      "execution_count": 1
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
